@@ -3,3 +3,5 @@ Esta es la historia de Diego Velez
 Diego Velez es de Colombia
 
 Hoy en dia soy desarrollador de software en INDRA Colombia
+
+vamos a aprender git muy bien con platzi.
